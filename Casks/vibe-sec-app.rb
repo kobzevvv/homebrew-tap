@@ -1,6 +1,6 @@
 cask "vibe-sec-app" do
-  version "1.0.1"
-  sha256 "ebec52c7cc5e03960ed3a04bfbcfce16b91d956c712c74a61b30c96ab5b072d9"
+  version "1.1.0"
+  sha256 "d016587798818dff35b5023f873b29ce8fdf51325365394a0c9ae981cb45bffd"
 
   url "https://github.com/kobzevvv/vibe-sec-app/releases/download/v#{version}/VibeSec-#{version}.zip"
   name "VibeSec"
